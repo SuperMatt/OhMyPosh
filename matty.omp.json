@@ -16,7 +16,7 @@
         {
           "type": "os",
           "style": "plain",
-          "template": "{{ if .WSL }}WSL at {{ end }}{{.Icon}} "
+          "template": "{{.Icon}} "
         },
         {
           "type": "session",
