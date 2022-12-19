@@ -8,6 +8,11 @@
       "alignment": "left",
       "segments": [
         {
+          "type": "python",
+          "style": "plain",
+          "template": "{{ if .Venv }}({{ .Venv }}) {{ end }}"
+        },
+        {
           "type": "text",
           "style": "plain",
           "foreground": "white",
