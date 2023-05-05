@@ -10,7 +10,7 @@
         {
           "type": "python",
           "style": "plain",
-          "template": "{{ if .Venv }}({{ .Venv }}) {{ end }}"
+          "template": "{{ if .Venv }}(\ue73c) {{ end }}"
         },
         {
           "type": "text",
