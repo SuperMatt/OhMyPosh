@@ -36,7 +36,7 @@
           "template": " {{ .Path }}",
           "properties": {
             "mixed_threshold": 3,
-            "style": "mixed"
+            "style": "agnoster_short"
           }
         },
         {
