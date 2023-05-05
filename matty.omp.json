@@ -35,6 +35,7 @@
           "foreground": "yellow",
           "template": " {{ .Path }}",
           "properties": {
+            "mixed_threshold": 3,
             "style": "mixed"
           }
         },
