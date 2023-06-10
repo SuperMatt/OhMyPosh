@@ -27,7 +27,7 @@
           "type": "session",
           "style": "plain",
           "foreground": "#56B6C2",
-          "template": "{{ if .SSHSession }}\uf0318 {{ end }}<cyan>{{ .UserName }}</>@<red>{{ .HostName }}</>"
+          "template": "{{ if .SSHSession }}\udb80\udf18 {{ end }}<cyan>{{ .UserName }}</>@<red>{{ .HostName }}</>"
         },
         {
           "type": "path",
