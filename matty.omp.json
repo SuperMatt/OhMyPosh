@@ -3,6 +3,7 @@
   "version": 2,
   "final_space": true,
   "auto_upgrade": true,
+  "disable_notice": true,
   "blocks": [
     {
       "type": "prompt",
