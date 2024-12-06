@@ -4,6 +4,9 @@
   "final_space": true,
   "auto_upgrade": false,
   "upgrade_notice": true,
+  "transient_prompt": {
+    "template": "$ "
+  },
   "blocks": [
     {
       "type": "prompt",
