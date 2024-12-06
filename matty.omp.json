@@ -4,9 +4,6 @@
   "final_space": true,
   "auto_upgrade": false,
   "upgrade_notice": true,
-  "transient_prompt": {
-    "template": "[{{ .UserName }}@{{ .HostName }} {{ .Path }}] $ ",
-  },
   "blocks": [
     {
       "type": "prompt",
