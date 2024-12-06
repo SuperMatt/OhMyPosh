@@ -6,7 +6,7 @@
   "upgrade_notice": true,
   "transient_prompt": {
     "template": "[<cyan>{{ .UserName }}</>@<red>{{ .HostName }}</> <yellow>{{ .Path }}</>] $ ",
-    "foreground": "#56B6C2",
+    "foreground": "#56B6C2"
   },
   "blocks": [
     {
